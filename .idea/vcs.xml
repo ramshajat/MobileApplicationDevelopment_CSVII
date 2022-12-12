@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Assignmnets/TicTacToe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Assignmnets/whatsapplayout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lab01/GameApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lab01/GuessGame" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lab01/mrHeadPotato" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lab02/Cookie" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lab02/activity_life_cycle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lab02/calculatorApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lab02/coffeApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lab02/hangManGame" vcs="Git" />
+  </component>
+</project>
